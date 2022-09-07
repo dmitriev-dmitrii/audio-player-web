@@ -17,9 +17,10 @@
 }
 </style>
 <script>
-import appPlayer from './components/appPlayer.vue';
+import AppPlayer from './components/AppPlayer.vue';
+
 export default {
-  components :{ appPlayer },
+  components :{ AppPlayer },
   data:()=> { return {
 
   }
