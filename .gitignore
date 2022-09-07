@@ -24,5 +24,5 @@ lerna-debug.log*
 *.sln
 *.sw?
 
-
+package-lock.json
 frontend/dist
